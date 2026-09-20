@@ -39,21 +39,21 @@ Frontend (React)
 
   Shared (common utils)
 
+```
+
 
                                   OR
 
 <img width="472" height="344" alt="Screenshot 2026-09-19 004448" src="https://github.com/user-attachments/assets/b834cb69-8af8-4f2a-acd5-8446340d796d" />
 
-```
+
 
 ### Agent Graph (LangGraph)
-
-```
-                        
+                 
 
 <img width="1208" height="864" alt="proj--1" src="https://github.com/user-attachments/assets/50ca99e7-e30c-4c6e-9d25-9c4a166c08b1" />
 
-```
+
 
 The **Search Agent** doesn't answer on its own — it fetches raw results and hands them to the **Chat Agent**, which turns them into a natural, cited answer. The router can also send a prompt straight to the Chat Agent when no search is needed.
 
@@ -126,14 +126,14 @@ User prompt ──► Embedding model ──► query vector
                                     Sent back to user
 
 
-
+```
 
                                                 OR
 
 
 <img width="527" height="311" alt="Screenshot 2026-09-19 003331" src="https://github.com/user-attachments/assets/e10391e5-c955-4394-bd96-d9c3e09cd235" />
 
-```
+
 
 **Step by step**
 
