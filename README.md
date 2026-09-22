@@ -25,12 +25,7 @@ A single prompt goes in, a router agent decides which specialised agent should h
 ## Video Demo 
 
 
-Uploading Video Project 9-compressed.mp4…
-
-
-
-
-
+https://github.com/user-attachments/assets/939a2b90-c30d-4366-ba6d-ca0f2e876765
 
 
 
